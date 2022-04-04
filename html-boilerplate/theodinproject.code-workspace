@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../odin-links-and-images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "odin-links-and-images"
+  }
+}
